@@ -1,0 +1,199 @@
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.exe.config
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.exe
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.exe
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTrangChu.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\BUS.dll
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DTO.dll
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\BUS.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHang.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhapHang.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DAL.dll
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\GUI.exe.config
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\GUI.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\GUI.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\BUS.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\DTO.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\BUS.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmBanHang.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmChinh.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHang.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmKhachHang.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhapHang.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTrangChu.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.exe
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\GUI\obj\Debug\GUI.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\GUI.exe.config
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\GUI.exe
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\GUI.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\BUS.dll
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\DTO.dll
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\DAL.dll
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\BUS.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\DTO.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\bin\Debug\DAL.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHang.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhapHang.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTrangChu.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.exe
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmManHinhChinh.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\GUI.exe.config
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\GUI.exe
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\GUI.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\BUS.dll
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\DTO.dll
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\DAL.dll
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\BUS.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmManHinhChinh.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHang.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhapHang.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTrangChu.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.exe
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\GUI.exe.config
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\GUI.exe
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\GUI.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\BUS.dll
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\DTO.dll
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\DAL.dll
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\BUS.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\DTO.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\bin\Debug\DAL.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmManHinhChinh.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmHang.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmNhapHang.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.frmTrangChu.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.exe
+D:\LTWindow\doan\QuanLyBanGiay (4)\GUI\obj\Debug\GUI.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmManHinhChinh.resources
+D:\Users\PC\Downloads\QuanLyBanGiay\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\Users\PC\Documents\QuanLyBanGiay\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.exe.config
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.exe
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.pdb
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\BUS.dll
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DTO.dll
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DAL.dll
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\BUS.pdb
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmManHinhChinh.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHang.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhapHang.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTrangChu.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.exe
+D:\Users\PC\Documents\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.exe.config
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.exe
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\GUI.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\BUS.dll
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DTO.dll
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DAL.dll
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\BUS.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmBanHang.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmPhieuNhap.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHoaDon.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmKhachHang.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmManHinhChinh.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmHang.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhaCungCap.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmNhapHang.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.frmTrangChu.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.exe
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\GUI\obj\Debug\GUI.pdb

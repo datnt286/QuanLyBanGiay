@@ -1,0 +1,54 @@
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DAL.dll
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DTO.dll
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.dll
+D:\Users\PC\Documents\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\bin\Debug\DTO.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\bin\Debug\DTO.pdb
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\obj\Debug\DAL.dll
+C:\Users\LENOVO\Documents\Zalo Received Files\QuanLyBanGiay\DAL\obj\Debug\DAL.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\bin\Debug\DAL.dll
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\bin\Debug\DAL.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\bin\Debug\DTO.dll
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\bin\Debug\DTO.pdb
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\obj\Debug\DAL.dll
+D:\Users\PC\Downloads\QuanLyBanGiay\DAL\obj\Debug\DAL.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\bin\Debug\DAL.dll
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\bin\Debug\DTO.dll
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\obj\Debug\DAL.dll
+D:\Users\PC\Documents\QuanLyBanGiay\DAL\obj\Debug\DAL.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\bin\Debug\DAL.dll
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\bin\Debug\DAL.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\bin\Debug\DTO.dll
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\bin\Debug\DTO.pdb
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\obj\Debug\DAL.dll
+D:\LTWindow\doan\QuanLyBanGiay (4)\DAL\obj\Debug\DAL.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DAL.dll
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DAL.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DTO.dll
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\bin\Debug\DTO.pdb
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.dll
+D:\Users\PC\Documents\CaoThang\HK4\C#\#DAMH\QuanLyBanGiay\DAL\obj\Debug\DAL.pdb
